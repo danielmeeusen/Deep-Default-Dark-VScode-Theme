@@ -6,7 +6,7 @@
   "author": {
     "name": "Daniel Meeusen"
   },
-  "version": "0.1.4",
+  "version": "0.1.6",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -25,45 +25,45 @@
     "Themes"
   ],
   "keywords": [
-    "Deep Default Dark",
-    "Deep Default Dark+",
-    "Deep Dark Theme",
-    "Dark Theme",
-    "Default Dark+ Theme",
-    "Darker Default Dark+",
-    "Darker Default Theme",
-    "Darker Theme",
-    "VSCode Dark Theme",
-    "Darker Dark+",
-    "Dark+",
-    "Dark+ Theme"
+    "color-theme",
+    "theme",
+    "dark theme",
+    "darker theme",
+    "darker dark theme",
+    "default dark",
+    "default dark+",
+    "dark+",
+    "default dark plus",
+    "dark plus",
+    "dark modern",
+    "dark+ modern",
+    "darker modern",
+    "default dark modern",
+    "default dark+ modern",
+    "deep dark",
+    "deep default dark"
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "Deep Normal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/deep-normal.json"
-      },
-      {
-        "label": "Deep Normal Vibrant",
-        "uiTheme": "vs-dark",
-        "path": "./themes/deep-normal-vibrant.json"
-      },
       {
         "label": "Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/deep-dark.json"
       },
       {
-        "label": "Deep Dark Cool",
-        "uiTheme": "vs-dark",
-        "path": "./themes/deep-dark-cool.json"
-      },
-      {
         "label": "Deep Dark Vibrant",
         "uiTheme": "vs-dark",
         "path": "./themes/deep-dark-vibrant.json"
+      },
+      {
+        "label": "Deeper Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deeper-dark.json"
+      },
+      {
+        "label": "Deep Normal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-normal.json"
       }
     ]
   },
