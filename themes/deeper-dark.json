@@ -27,6 +27,11 @@
     "input.foreground": "#d4d4d4",
     "input.placeholderForeground": "#a6a6a6",
     "input.border": "#3c3c3c",
+    "quickInput.background": "#161616",
+    "quickInput.foreground": "#D4D4D4",
+    "quickInputTitle.background": "#007ACC",
+    "quickInputList.focusBackground": "#094771",
+    "quickInputList.focusForeground": "#FFFFFF",
     // side bar
     "sideBar.background": "#0d0d0d", // Sidebar List Background
     "sideBarSectionHeader.background": "#0000",
