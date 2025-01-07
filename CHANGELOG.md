@@ -24,12 +24,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Tried and failed to change name of the extension do to the similarites of VSCode's Dark Modern Theme
 
-### [0.1.6] - 1-5-2025
+### [0.1.7] - 1-6-2025
 
 - Removed Deep Dark Cool
 - Brought Back Deep Normal
 - Consolidated Deep Dark Vibrant to Deep Dark
 - Consolidated Deep Normal vibrant to Deep Normal
 - Introduced Deeper Dark
-  
-
