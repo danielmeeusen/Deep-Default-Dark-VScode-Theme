@@ -9,7 +9,6 @@
     "titleBar.inactiveForeground": "#a6a6a6",
     "menu.foreground": "#dedede",
     "menu.background": "#161616",
-    "input.placeholderForeground": "#A6A6A6",
     // tabs
     "tab.activeBackground": "#000000",
     "editorGroupHeader.tabsBackground": "#101010",
@@ -23,6 +22,11 @@
     "editorIndentGuide.background1": "#404040",
     "editorIndentGuide.activeBackground1": "#707070",
     "editor.selectionHighlightBackground": "#ADD6FF26",
+    // input
+    "input.background": "#1e1e1e",
+    "input.foreground": "#d4d4d4",
+    "input.placeholderForeground": "#a6a6a6",
+    "input.border": "#3c3c3c",
     // side bar
     "sideBar.background": "#0d0d0d", // Sidebar List Background
     "sideBarSectionHeader.background": "#0000",
@@ -38,8 +42,15 @@
     "statusBarItem.remoteForeground": "#FFF",
     "statusBarItem.remoteBackground": "#16825D",
     "statusBar.noFolderBackground": "#212121",
-    "statusBar.debuggingBackground": "#263238",
-    "ports.iconRunningProcessForeground": "#369432"
+    "statusBar.debuggingBackground": "#1e282c",
+    "ports.iconRunningProcessForeground": "#369432",
+    // panel
+    "panel.background": "#131313",
+    "panel.border": "#545454",
+    "panelTitle.activeBorder": "#007ACC",
+    "panelTitle.activeForeground": "#ffffff",
+    "panelTitle.inactiveForeground": "#b3b3b3",
+    "panelInput.border": "#cccccc"
   },
   "tokenColors": [
     {

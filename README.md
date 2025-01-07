@@ -9,7 +9,7 @@ Suggestions and pull requests are welcome on my [GitHub repo](https://github.com
 ## Deep Dark ##
 ![deep dark preview image](https://github.com/danielmeeusen/deep-default-dark-vscode-theme/blob/main/images/DeepDark.PNG?raw=true)
 
-## Deep Dark Vibrant ##
+## Deeper Dark ##
 ![deep dark vibrant preview image](https://github.com/danielmeeusen/deep-default-dark-vscode-theme/blob/main/images/DeepDarkVibrant.PNG?raw=true)
 
 ## Deep Dark Cool ##
