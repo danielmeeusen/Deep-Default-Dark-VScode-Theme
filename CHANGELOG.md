@@ -31,3 +31,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Consolidated Deep Dark Vibrant to Deep Dark
 - Consolidated Deep Normal vibrant to Deep Normal
 - Introduced Deeper Dark
+
+### [0.1.9] - 1-16-2025
+- Minor color Adjustments
+- Keyword adjustments hopefully for better visibility
+
+
+

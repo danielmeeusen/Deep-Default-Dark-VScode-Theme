@@ -6,7 +6,7 @@
   "author": {
     "name": "Daniel Meeusen"
   },
-  "version": "0.1.7",
+  "version": "0.1.8",
   "engines": {
     "vscode": "^1.55.0"
   },
@@ -25,26 +25,42 @@
     "Themes"
   ],
   "keywords": [
+    "color",
+    "style",
     "color-theme",
+    "dark-theme",
+    "dark",
     "theme",
     "dark theme",
-    "darker theme",
-    "darker dark theme",
-    "default dark",
-    "default dark+",
-    "dark+",
-    "default dark plus",
-    "dark plus",
+    "dark-theme",
+    "modern",
     "dark modern",
-    "dark+ modern",
-    "darker modern",
-    "default dark modern",
-    "default dark+ modern",
-    "deep dark",
-    "deep default dark"
+    "dark-modern",
+    "default",
+    "dark+",
+    "dark plus",
+    "dark-plus",
+    "default dark plus",
+    "default-dark-plus",
+    "default dark+",
+    "default-dark+",
+    "night",
+    "night mode",
+    "night-mode",
+    "deep",
+    "contrast",
+    "plus",
+    "darkplus",
+    "dark mode",
+    "dark-mode"
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Deep Normal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deep-normal.json"
+      },
       {
         "label": "Deep Dark",
         "uiTheme": "vs-dark",
@@ -54,11 +70,6 @@
         "label": "Deeper Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/deeper-dark.json"
-      },
-      {
-        "label": "Deep Normal",
-        "uiTheme": "vs-dark",
-        "path": "./themes/deep-normal.json"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "include": "./dark_vs.json",
   "colors": {
     // menu
-    "titleBar.activeBackground": "#0d0d0d",
+    "titleBar.activeBackground": "#111111",
     "titleBar.inactiveBackground": "#111111",
     "titleBar.inactiveForeground": "#a6a6a6",
     "menu.foreground": "#dedede",
@@ -33,7 +33,7 @@
     "quickInputList.focusBackground": "#094771",
     "quickInputList.focusForeground": "#FFFFFF",
     // side bar
-    "sideBar.background": "#0d0d0d", // Sidebar List Background
+    "sideBar.background": "#000000",
     "sideBarSectionHeader.background": "#0000",
     "sideBarSectionHeader.border": "#ccc3",
     "sideBarTitle.foreground": "#cccccc",

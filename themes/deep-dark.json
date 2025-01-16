@@ -13,6 +13,7 @@
     // tabs
     "editorGroupHeader.tabsBackground": "#1b1b1b",
     "tab.inactiveBackground": "#1c1c1c",
+    "tab.border": "#2b2a2a",
     "tab.activeBackground": "#141414",
     "tab.lastPinnedBorder": "#262626",
     // editor
